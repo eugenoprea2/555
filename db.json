@@ -1,0 +1,35 @@
+{
+  "data": {
+    "customers": [
+      {
+        "phones": [
+          "0722369516",
+          "0730243855"
+        ],
+        "email": "oprea_marius95@yahoo.com",
+        "name": "Marius Oprea",
+        "eos_id": 343306,
+        "segmentation": "Bronze",
+	"address":{
+		"localitate":"Bucuresti",
+		"strada":"Splaiul Independentei",
+		"numar":"290",
+		"sector":"Bucuresti - Sector 6"
+		},
+        "orders": [
+          {
+            "date": "2018-01-06T19:01:36Z",
+            "delivery_mode": "Showroom Grozavesti",
+            "payment_mode": "Numerar",
+            "id": 4158888,
+            "contact_person": "Marius Oprea",
+            "products": [
+              "Espressor manual Breville Prima Latte ",
+              "Discount conform promotie: 001"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
